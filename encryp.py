@@ -20,6 +20,7 @@ text = fernet.decrypt(text) #เปิดกล่อง
 print("Decrypt Text: ",text.decode()) #แปลง Binary
 print("====================")
 
+#test
 # encrypt เป็นการปกปิด(ปิดกล่อง)
 # decrypt เป็นการปล่อย(เปิดกล่อง)
 
